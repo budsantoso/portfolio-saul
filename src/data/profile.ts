@@ -18,7 +18,7 @@ export const profile = {
   },
   linkedin: "https://www.linkedin.com/in/saulcarlosimmanuelsimatupang",
   email: "saulcarlosimmanuels@gmail.com",
-  siteUrl: "https://saul.switchcode.id",
+  siteUrl: "https://carlos.switchcode.id",
   resumePath: "/resume/Saul-Carlos-CV.pdf",
   education: {
     degree: "Bachelor of Information Systems (S.Kom.)",

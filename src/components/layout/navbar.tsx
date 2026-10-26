@@ -66,7 +66,7 @@ export function Navbar() {
     <header className="fixed top-0 z-50 w-full border-b border-border/40 bg-background/80 backdrop-blur-md">
       <nav className="mx-auto flex h-14 max-w-6xl items-center justify-between px-4 sm:px-6">
         <Link href="/" className="font-heading text-sm font-semibold tracking-tight">
-          Saul<span className="text-muted-foreground">.</span>
+          Carlos<span className="text-muted-foreground">.</span>
         </Link>
 
         <ul className="hidden items-center gap-1 md:flex">

@@ -27,7 +27,7 @@ export const metadata: Metadata = {
     template: "%s | Saul Carlos Immanuel Simatupang",
   },
   description: "IT Governance, Risk & Compliance (GRC) & Infrastructure Specialist with experience across UPH, Bank Danamon, Siloam Hospitals, and PT ESB. Expert in COBIT 2019, ITIL, ISO 27001, IT Asset Management, MikroTik, and AppSheet.",
-  authors: [{ name: "Saul Carlos Immanuel Simatupang", url: "https://saul.switchcode.id" }],
+  authors: [{ name: "Saul Carlos Immanuel Simatupang", url: "https://carlos.switchcode.id" }],
   creator: "Saul Carlos Immanuel Simatupang",
   publisher: "Saul Carlos Immanuel Simatupang",
   keywords: [
@@ -47,13 +47,13 @@ export const metadata: Metadata = {
   openGraph: {
     type: "website",
     locale: "id_ID",
-    url: "https://saul.switchcode.id",
+    url: "https://carlos.switchcode.id",
     siteName: "Saul Carlos Immanuel Simatupang — Portfolio",
     title: "Saul Carlos Immanuel Simatupang — IT GRC & Infrastructure Specialist",
     description: "Aligning technology initiatives with enterprise standards, safeguarding IT operations through ISO 27001, ITIL, and COBIT 2019 governance.",
     images: [
       {
-        url: "https://saul.switchcode.id/images/profile.jpg",
+        url: "https://carlos.switchcode.id/images/profile.jpg",
         width: 400,
         height: 460,
         alt: "Saul Carlos Immanuel Simatupang",
@@ -64,7 +64,7 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "Saul Carlos Immanuel Simatupang — IT GRC & Infrastructure Specialist",
     description: "Aligning technology initiatives with enterprise standards, safeguarding IT operations through ISO 27001, ITIL, and COBIT 2019 governance.",
-    images: ["https://saul.switchcode.id/images/profile.jpg"],
+    images: ["https://carlos.switchcode.id/images/profile.jpg"],
   },
   robots: {
     index: true,
